@@ -17,9 +17,7 @@ Offside is a postion that is illegal. A player is in an offside position if: he 
 ## See also for more info
 - [fan count](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 - [FIFA info](https://www.investopedia.com/articles/investing/070915/how-does-fifa-make-money.asp)
-- [Resource 3](url)
 
 ## References
 1. https://en.wikipedia.org/wiki/Association_football
 2. https://www.investopedia.com/articles/investing/070915/how-does-fifa-make-money.asp
-3. Reference 3
