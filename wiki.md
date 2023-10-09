@@ -4,8 +4,6 @@
 Football or soccer is a very popular team sport that is played between *two* teams of **11 players**. The object of the game is to move the ball up the **pitch**, a rectangular field and past the opposing teams goal line. A standard game lasts **90 minutes** split into two halves of 45 minutes. 
 ![soccer pitch postions](https://www.sportsessionplanner.com/uploads/images/session_transitions/3484655.jpg)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
-
 
 ## Business
 Soccer or football depending on what region you are in, is noted as the most populat sport worldwide with over active *3.5 billion* fans/players in over 200 countries. The sport is goverened by FIFA internationally which is the main organization. FIFA(Fédération Internationale de Football Association) was formed in 1904 to oversee and organize international football competitions. FIFA is a non-profit so it invests most of the money made back into the development of the sport which is probably one of the reasons the sport has been so successful. Between 2019-2022 FIFA is estimated to have generated $7.6 billion in revenue through marketing, television and licensing rights for major events like the World Cup. 
