@@ -14,10 +14,24 @@ throw the ball with both hands over the head. There are also fouls in this game.
 ### Advanced Rules
 Offside is a postion that is illegal. A player is in an offside position if: he is nearer to his opponents’ goal line than both the ball and the second last opponent. There are two types of free kicks in soccer – direct and indirect free kicks. With a direct free kick, the player taking the kick can score directly, without the ball touching another player. However, in an indirect free kick, the ball must touch another player before a goal can be scored. 
 
+## FIFA Mens World Rankings
+1. Argentina
+2. France
+3. Brazil
+4. England
+5. Belgium
+6. Croatia
+7. Netherlands
+8. Portugal
+9. Italy
+10. Spain
+
 ## See also for more info
-- [fan count](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-- [FIFA info](https://www.investopedia.com/articles/investing/070915/how-does-fifa-make-money.asp)
+- [Fan Count](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+- [FIFA Info](https://www.investopedia.com/articles/investing/070915/how-does-fifa-make-money.asp)
+- [FIFA World Rankings](https://www.fifa.com/fifa-world-ranking/men?dateId=id14142)
 
 ## References
 1. https://en.wikipedia.org/wiki/Association_football
 2. https://www.investopedia.com/articles/investing/070915/how-does-fifa-make-money.asp
+3. https://www.soccer.com/guide/rules-of-soccer-guide
